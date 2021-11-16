@@ -1,3 +1,76 @@
 {
-    "produtos": []
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Casas Bahias",
+            "descricao": "Eletromestico em geral",
+            "img": "https://logodownload.org/wp-content/uploads/2014/05/casas-bahia-logo-1-2.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Lojas Americanas",
+            "descricao": "Mercado com tudo em geral online.",
+            "img": "https://logodownload.org/wp-content/uploads/2019/10/americanas-logo-0.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 1
+        },
+        {
+            "id": 3,
+            "nome": "Ponto Frio",
+            "descricao": "Eletromesticos e moveis",
+            "img": "https://logodownload.org/wp-content/uploads/2014/07/pontofrio-logo-0.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 1
+        },
+        {
+            "id": 4,
+            "nome": "Kabum",
+            "descricao": "Informática em geral",
+            "img": "https://logodownload.org/wp-content/uploads/2017/11/kabum-logo-0.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 2
+        },
+        {
+            "id": 5,
+            "nome": "Kalunga",
+            "descricao": "Papelaria e Informatica em geral",
+            "img": "https://logodownload.org/wp-content/uploads/2017/11/kalunga-logo-3.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 2
+        },
+        {
+            "id": 6,
+            "nome": "Natura",
+            "descricao": "Perfumaria e Maquiagem ger",
+            "img": "https://logodownload.org/wp-content/uploads/2014/05/natura-logo-0.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 3
+        },
+        {
+            "id": 7,
+            "nome": "Boticário",
+            "descricao": "Perfumaria",
+            "img": "https://logodownload.org/wp-content/uploads/2014/10/o-boticario-logo-0.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 3
+        },
+        {
+            "id": 8,
+            "nome": "Renner",
+            "descricao": "Roupas Modernas",
+            "img": "https://logodownload.org/wp-content/uploads/2014/07/renner-logo-1.png",
+            "timeZone": "10/15/2012 10:02:00",
+            "categoria_id": 4
+        },
+        {
+            "id": 6,
+            "nome": "C&A",
+            "descricao": "Roupas Basicas",
+            "img": "https://logodownload.org/wp-content/uploads/2015/02/c-e-a-logo-0.png",
+            "timeZone": "",
+            "categoria_id": 4
+        }
+    ]
 }
