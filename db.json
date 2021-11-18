@@ -5,90 +5,122 @@
             "nome": "Casas Bahias",
             "descricao": "Eletromestico em geral",
             "img": "https://logodownload.org/wp-content/uploads/2014/05/casas-bahia-logo-1-2.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-06-01T09:00:00-03:00",
             "categoria_id": 1,
-            "produto": [
-                {
+            "produto": {
                     "nomeProduto": "Mesa",
                     "descricaoProduto": "grande e cor marrom",
+                    "preco": "R$ 400,00",
                     "imgProduto": "https://images.colombo.com.br/produtos/4166855/4166855_Conjunto_Sala_de_Jantar_Rosie_Madesa_Mesa_Tampo_de_Madeira_com_4_Cadeiras_10338013_z.jpg"
+                },
+                "address": {
+                    "street": "Av. Interlagos, 2255",
+                    "zipcode": "04661-200",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
+            
         },
         {
             "id": 2,
             "nome": "Lojas Americanas",
             "descricao": "Mercado com tudo em geral online.",
             "img": "https://logodownload.org/wp-content/uploads/2019/10/americanas-logo-0.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-05-04T09:43:00-03:00",
             "categoria_id": 1,
-            "produto": [
-                {
+            "produto": {
                     "nomeProduto": "Sofa",
                     "descricaoProduto": "pequena infantil cor rosa",
-                    "img": "https://png.pngtree.com/png-clipart/20190725/ourlarge/pngtree-pink-sofa-home-furnishings-png-image_1056410.jpg"
+                    "preco": "R$ 320,00",
+                    "imgProduto": "https://png.pngtree.com/png-clipart/20190725/ourlarge/pngtree-pink-sofa-home-furnishings-png-image_1056410.jpg"
                 }
-            ]
+                ,
+                "address": {
+                    "street": "Av. das Nações Unidas, 22540",
+                    "zipcode": "04295-030",
+                    "city": "São Paulo",
+                    "state": "SP"
+                }
         },
         {
             "id": 3,
             "nome": "Ponto Frio",
             "descricao": "Eletromesticos e moveis",
             "img": "https://logodownload.org/wp-content/uploads/2014/07/pontofrio-logo-0.png",
-            "timeZone": "10/15/2012 10:02:00",
+           "timeZone": "2021-05-23T22:00:00-03:00",
             "categoria_id": 1,
-            "produto": [
-                {
+            "produto":{
                     "nomeProduto": "Maquina de Lavar roupa",
                     "descricaoProduto": "de 27 Litros, automatica",
-                    "img": "https://io2.convertiez.com.br/m/lojasedmil/shop/products/images/606/medium/maquina-de-lavar-consul-9kg-branca_2165.png"
+                    "preco": "R$ 1000,00",
+                    "imgProduto": "https://io2.convertiez.com.br/m/lojasedmil/shop/products/images/606/medium/maquina-de-lavar-consul-9kg-branca_2165.png"
+                },
+                "address": {
+                    "street": "Av. Sargento Geraldo Sant'Ana, 1491",
+                    "zipcode": "04674-225",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         },
         {
             "id": 4,
             "nome": "Kabum",
             "descricao": "Informática em geral",
             "img": "https://logodownload.org/wp-content/uploads/2017/11/kabum-logo-0.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-02-01T07:00:00-03:00",
             "categoria_id": 2,
-            "produto": [
-                {
+            "produto": {
                     "nomeProduto": "notebook acer",
                     "descricaoProduto": "gamer tela 20",
-                    "img": "https://s2.glbimg.com/ulRjpKdaB6y0ve4dRQFXB7-RzBg=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/J/C/KRIwTqQiOd48BYCvH4nw/f03097eab3.png"
+                    "preco": "R$ 3400,00",
+                    "imgProduto": "https://s2.glbimg.com/ulRjpKdaB6y0ve4dRQFXB7-RzBg=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/J/C/KRIwTqQiOd48BYCvH4nw/f03097eab3.png"
+                },
+                "address": {
+                    "street": "Av. Interlagos, 2255",
+                    "zipcode": "04661-200",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         },
         {
             "id": 5,
             "nome": "Kalunga",
             "descricao": "Papelaria e Informatica em geral",
             "img": "https://logodownload.org/wp-content/uploads/2017/11/kalunga-logo-3.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-03-23T005:00:00-03:00",
             "categoria_id": 2,
-            "produto": [
-                {
+            "produto":  {
                     "nomeProduto": "kit caneta bic",
                     "descricaoProduto": "cor preta ",
-                    "img": "https://editoraufv.cdn.plataformaneo.com.br/produto/20200806162342_1524998476_D.png"
+                    "preco": "R$ 25,00",
+                    "imgProduto": "https://editoraufv.cdn.plataformaneo.com.br/produto/20200806162342_1524998476_D.png"
+                },
+                "address": {
+                    "street": "Av. das Nações Unidas, 22540",
+                    "zipcode": "04295-030",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         },
         {
             "id": 6,
             "nome": "Natura",
             "descricao": "Perfumaria e Maquiagem ger",
             "img": "https://logodownload.org/wp-content/uploads/2014/05/natura-logo-0.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-06-01T09:00:00-03:00",
             "categoria_id": 3,
-            "produto": [
-                {
+            "produto":  {
                     "nomeProduto": "kit perfume kaiak",
                     "descricaoProduto": "masculina, contem perfume, sabone e desodorante",
-                    "img": "https://m.media-amazon.com/images/I/81N2g6I5uVL._AC_SL1500_.jpg"
+                    "preco": "R$ 109,90",
+                    "imgProduto": "https://m.media-amazon.com/images/I/81N2g6I5uVL._AC_SL1500_.jpg"
+                },
+                "address": {
+                    "street": "Av. Sargento Geraldo Sant'Ana, 1491",
+                    "zipcode": "04674-225",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         },
         {
             "id": 7,
@@ -96,15 +128,20 @@
             "descricao": "Perfumaria",
             "loja": "Casa Bahias",
             "img": "https://logodownload.org/wp-content/uploads/2014/10/o-boticario-logo-0.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-12-01T12:00:00-03:00",
             "categoria_id": 3,
-            "produto": [
-                {
+            "produto": {
                     "nomeProduto": "kit creme Boticario",
                     "descricaoProduto": "feminino, contem locao hidratante, creme hidratante para maos e sabonete liquido",
-                    "img": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_1800,c_limit/e_trim/v1/imagens/product/B2019040607/75e22fa1-e136-45c1-a3cf-a973f1ca8e09-combo-nativa-spa-ameixa-body-splash-desodorante-colonia-locao-desodorante-hidratante-creme-desodorante-hidratante-maos-nativa-spa.png"
+                    "preco": "R$ 89,90",
+                    "imgProduto": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_1800,c_limit/e_trim/v1/imagens/product/B2019040607/75e22fa1-e136-45c1-a3cf-a973f1ca8e09-combo-nativa-spa-ameixa-body-splash-desodorante-colonia-locao-desodorante-hidratante-creme-desodorante-hidratante-maos-nativa-spa.png"
+                },
+                "address": {
+                    "street": "Av. Interlagos, 2255",
+                    "zipcode": "04661-200",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         },
         {
             "id": 8,
@@ -112,15 +149,20 @@
             "descricao": "Roupas Modernas",
             "loja": "Ponto",
             "img": "https://logodownload.org/wp-content/uploads/2014/07/renner-logo-1.png",
-            "timeZone": "10/15/2012 10:02:00",
+            "timeZone": "2021-08-11T09:45:00-03:00",
             "categoria_id": 4,
-            "produto": [
-                {
+            "produto": {
                     "nomeProduto": "kit Conjunto Bebe",
                     "descricaoProduto": "tamanho recem nascido contem dois body e calmca",
-                    "img": "https://anozero.vteximg.com.br/arquivos/ids/174199/18111.jpg"
+                    "preco": "R$ 99,90",
+                    "imgProduto": "https://anozero.vteximg.com.br/arquivos/ids/174199/18111.jpg"
+                },
+                "address": {
+                    "street": "Av. das Nações Unidas, 22540",
+                    "zipcode": "04295-030",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         },
         {
             "id": 6,
@@ -128,15 +170,20 @@
             "descricao": "Roupas Basicas",
             "loja": "Ponto",
             "img": "https://logodownload.org/wp-content/uploads/2015/02/c-e-a-logo-0.png",
-            "timeZone": "",
+            "timeZone": "2021-10-25T12:30:00-03:00",
             "categoria_id": 4,
-            "produto": [
-                {
+            "produto": {
                     "nomeProduto": "Pijama Masculina Simpoms",
                     "descricaoProduto": "tamanho  p, m, GG",
-                    "img": "https://cea.vteximg.com.br/arquivos/ids/47923779-463-556/Pijama-de-Algodao-Homer-Simpson-Manga-Curta-Branco-9999889-Branco_1.jpg"
+                    "preco": "R$ 68,00",
+                    "imgProduto": "https://cea.vteximg.com.br/arquivos/ids/47923779-463-556/Pijama-de-Algodao-Homer-Simpson-Manga-Curta-Branco-9999889-Branco_1.jpg"
+                },
+                "address": {
+                    "street": "Av. Sargento Geraldo Sant'Ana, 1491",
+                    "zipcode": "04674-225",
+                    "city": "São Paulo",
+                    "state": "SP"
                 }
-            ]
         }
     ] 
 }
